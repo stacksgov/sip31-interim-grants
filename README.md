@@ -18,5 +18,27 @@ Traction will be assessed by Stacks Foundation staff in partnership with communi
 - Jonathan Sadlowe, Gossamer & Signal21
 - Diego Mey, Bitflow & Marketing WG Lead
 
+<br>
+
 ### ⌚ Timeline
 Applications are open now and **due by September 30th, 2025**. However, **the sooner you submit, the sooner your application will be reviewed, we are not waiting until applications are closed to disburse awards**.
+<br>
+
+### 🟢 Get Started
+It's easy, submit an issue right here in the repository using the pre-built issue template. Be sure to fill in all the fields thoroughly and ensure your Github notifications are on as our team and community panelists will need to engage with you. 
+
+
+<br><br>
+
+# 🛣️ Other Paths: 
+### **🧡 DeGrants:**
+For builders that don't fit the open-ended program outlined here, we’ve funded a third cohort of DeGrants that the community will dole out how it sees fit. Depending on the demand we see, we have some flexibility on the overall allocation here and will work with the leaders of the program to adjust it if there’s a good reason to. We highly recommend this path for brand new builders as it is a great opportunity to connect with the community, build credibility, and find funding for initial milestones/traction that can open the door to more grants or investment from the ecosystem down the line.
+
+Applications **open on September 10th**, and will be **due September 26th** per the Stewards: https://degrants.xyz/cohort3.
+<br><br>
+
+### 🛣️ More paths still:
+In addition to the grant programs outlined above, there are always the ongoing programs that make getting started easy:
+- [Code4STX](https://stacks.org/code-for-stx): Start coding, start earning. That’s it!
+- [Stacks Ascent](https://stacks.org/ascent): Build up your app and awareness in the ecosystem through this structured program featuring frequent milestone based grants. Be sure to also check out Stacks Ascent’s special season of events and places to engage: Expedition 31.
+- [Bitcoin Frontier Fund](https://btcfrontier.fund/): Have a team and initial traction? Reach out to the Bitcoin Frontier Fund to learn more about what they’re looking for and upcoming opportunities.
