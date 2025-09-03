@@ -11,7 +11,7 @@ assignees: ''
 ## 🙂 Applicant Information                
 - **Email:** 
 - **Twitter:** @_____
-- **Main project/association:** _Such as your current organization/project or 'best known for' within the community_
+- **Main project/association:** _such as current organization or 'best known for' within the community_
 - **Notable ecosystem achievements or impact:** _Limit to 3 bullet points_
 
 ## 📃 Grant Overview
@@ -21,11 +21,16 @@ assignees: ''
 - **Grant Audience:**  _Developers, Founders, Users, etc., please be as specific as you can_
 - **Grant Team:**  _List other members of your team here using their Github handles_
 
-## 🚀 Grant Mission, Impact, Risks, and Reference
+## 🚀 Grant Mission, Impact, Risks, and Traction
 - **Grant Mission:**    _Stated in 2-3 sentences_
 - **Grant Impact:**    _Stated in 2-3 sentences, what do you hope this grant does for the ecosystem? Think in terms of measurables and try to describe what has happened as a result of your grant being successful._
-- **Grant Risks:** _What are the primary things that can go wrong or reasons why the grant would not be successful? How do you plan to mitigate these risks/ensure project success?_
+- **Grant Risks:** _What are the primary things that can go wrong or reasons why the grant would not be successful? How have you will you mitigate them?_
+- **Traction:** _Please share any and all information you have related to the need or demand related to your grant request. Successful grant programs fuel projects that have some indication of need and/or product market fit. Please share data such as:_
+     - _Active users:_ 
+     - _Transaction volume:_
+     - _TVL:_ 
+     - _Waitlist:_ 
 
 ## 🛣️ Grant Roadmap & Deliverables
 - **Deliverable:**  _State what it is you will deliver specifically, i.e. a web interface for X, a mobile app, an SDK, etc._
-- **Milestones:** _If your grant request is for more than 10,000 USD or equivalent, please propose how your project can be broken down into milestones aligned with 1 to 2 month timeframes that the community can use to assess on track status and progress_
+- **Milestones:** _If your grant request is for more than 10,000 USD or equivalent, please propose how your project can break down into milestones_
