@@ -1,39 +1,39 @@
 Applications are now closed. Open applications will be reviewed by the Interim Grant Committee and decisions will be posted on individual issues:
 
-https://github.com/stacksgov/sip31-interim-grants/issues/34
-https://github.com/stacksgov/sip31-interim-grants/issues/33
-https://github.com/stacksgov/sip31-interim-grants/issues/32
-https://github.com/stacksgov/sip31-interim-grants/issues/31
-https://github.com/stacksgov/sip31-interim-grants/issues/30
-https://github.com/stacksgov/sip31-interim-grants/issues/29
-https://github.com/stacksgov/sip31-interim-grants/issues/28
-https://github.com/stacksgov/sip31-interim-grants/issues/27
-https://github.com/stacksgov/sip31-interim-grants/issues/26
-https://github.com/stacksgov/sip31-interim-grants/issues/25
-https://github.com/stacksgov/sip31-interim-grants/issues/24
-https://github.com/stacksgov/sip31-interim-grants/issues/23
-https://github.com/stacksgov/sip31-interim-grants/issues/22
-https://github.com/stacksgov/sip31-interim-grants/issues/21
-https://github.com/stacksgov/sip31-interim-grants/issues/20
-https://github.com/stacksgov/sip31-interim-grants/issues/19
-https://github.com/stacksgov/sip31-interim-grants/issues/18
-https://github.com/stacksgov/sip31-interim-grants/issues/17
-https://github.com/stacksgov/sip31-interim-grants/issues/16
-https://github.com/stacksgov/sip31-interim-grants/issues/15
-https://github.com/stacksgov/sip31-interim-grants/issues/14
-https://github.com/stacksgov/sip31-interim-grants/issues/13
-https://github.com/stacksgov/sip31-interim-grants/issues/12
-https://github.com/stacksgov/sip31-interim-grants/issues/11
-https://github.com/stacksgov/sip31-interim-grants/issues/10
-https://github.com/stacksgov/sip31-interim-grants/issues/9
-https://github.com/stacksgov/sip31-interim-grants/issues/8
-https://github.com/stacksgov/sip31-interim-grants/issues/7
-https://github.com/stacksgov/sip31-interim-grants/issues/6
-https://github.com/stacksgov/sip31-interim-grants/issues/5
-https://github.com/stacksgov/sip31-interim-grants/issues/4
-https://github.com/stacksgov/sip31-interim-grants/issues/3
-https://github.com/stacksgov/sip31-interim-grants/issues/2
-https://github.com/stacksgov/sip31-interim-grants/issues/1
+- https://github.com/stacksgov/sip31-interim-grants/issues/34
+- https://github.com/stacksgov/sip31-interim-grants/issues/33
+- https://github.com/stacksgov/sip31-interim-grants/issues/32
+- https://github.com/stacksgov/sip31-interim-grants/issues/31
+- https://github.com/stacksgov/sip31-interim-grants/issues/30
+- https://github.com/stacksgov/sip31-interim-grants/issues/29
+- https://github.com/stacksgov/sip31-interim-grants/issues/28
+- https://github.com/stacksgov/sip31-interim-grants/issues/27
+- https://github.com/stacksgov/sip31-interim-grants/issues/26
+- https://github.com/stacksgov/sip31-interim-grants/issues/25
+- https://github.com/stacksgov/sip31-interim-grants/issues/24
+- https://github.com/stacksgov/sip31-interim-grants/issues/23
+- https://github.com/stacksgov/sip31-interim-grants/issues/22
+- https://github.com/stacksgov/sip31-interim-grants/issues/21
+- https://github.com/stacksgov/sip31-interim-grants/issues/20
+- https://github.com/stacksgov/sip31-interim-grants/issues/19
+- https://github.com/stacksgov/sip31-interim-grants/issues/18
+- https://github.com/stacksgov/sip31-interim-grants/issues/17
+- https://github.com/stacksgov/sip31-interim-grants/issues/16
+- https://github.com/stacksgov/sip31-interim-grants/issues/15
+- https://github.com/stacksgov/sip31-interim-grants/issues/14
+- https://github.com/stacksgov/sip31-interim-grants/issues/13
+- https://github.com/stacksgov/sip31-interim-grants/issues/12
+- https://github.com/stacksgov/sip31-interim-grants/issues/11
+- https://github.com/stacksgov/sip31-interim-grants/issues/10
+- https://github.com/stacksgov/sip31-interim-grants/issues/9
+- https://github.com/stacksgov/sip31-interim-grants/issues/8
+- https://github.com/stacksgov/sip31-interim-grants/issues/7
+- https://github.com/stacksgov/sip31-interim-grants/issues/6 (Awarded)
+- https://github.com/stacksgov/sip31-interim-grants/issues/5
+- https://github.com/stacksgov/sip31-interim-grants/issues/4
+- https://github.com/stacksgov/sip31-interim-grants/issues/3
+- https://github.com/stacksgov/sip31-interim-grants/issues/2
+- https://github.com/stacksgov/sip31-interim-grants/issues/1 (Awarded)
 
 # Open Ended Interim Grants from the Stacks Foundation
 As the push to bring SIP-031 resources to the ecosystem carries on, this grant program is intended to bridge builders to new programs exected from the new Stacks Endowment later this year. You can also browse other opportunities [covered in this post](https://stx.is/sip-31-interim-grants) and identify the program that is most applicable to your project. 
