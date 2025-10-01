@@ -1,39 +1,41 @@
 Applications are now closed. Open applications will be reviewed by the Interim Grant Committee and decisions will be posted on individual issues:
 
-- https://github.com/stacksgov/sip31-interim-grants/issues/34
-- https://github.com/stacksgov/sip31-interim-grants/issues/33
-- https://github.com/stacksgov/sip31-interim-grants/issues/32
-- https://github.com/stacksgov/sip31-interim-grants/issues/31
-- https://github.com/stacksgov/sip31-interim-grants/issues/30
-- https://github.com/stacksgov/sip31-interim-grants/issues/29
-- https://github.com/stacksgov/sip31-interim-grants/issues/28
-- https://github.com/stacksgov/sip31-interim-grants/issues/27
-- https://github.com/stacksgov/sip31-interim-grants/issues/26
-- https://github.com/stacksgov/sip31-interim-grants/issues/25
-- https://github.com/stacksgov/sip31-interim-grants/issues/24
-- https://github.com/stacksgov/sip31-interim-grants/issues/23
-- https://github.com/stacksgov/sip31-interim-grants/issues/22
-- https://github.com/stacksgov/sip31-interim-grants/issues/21
-- https://github.com/stacksgov/sip31-interim-grants/issues/20
-- https://github.com/stacksgov/sip31-interim-grants/issues/19
-- https://github.com/stacksgov/sip31-interim-grants/issues/18
-- https://github.com/stacksgov/sip31-interim-grants/issues/17
-- https://github.com/stacksgov/sip31-interim-grants/issues/16
-- https://github.com/stacksgov/sip31-interim-grants/issues/15
-- https://github.com/stacksgov/sip31-interim-grants/issues/14
-- https://github.com/stacksgov/sip31-interim-grants/issues/13
-- https://github.com/stacksgov/sip31-interim-grants/issues/12
-- https://github.com/stacksgov/sip31-interim-grants/issues/11
-- https://github.com/stacksgov/sip31-interim-grants/issues/10
-- https://github.com/stacksgov/sip31-interim-grants/issues/9
-- https://github.com/stacksgov/sip31-interim-grants/issues/8
-- https://github.com/stacksgov/sip31-interim-grants/issues/7
-- https://github.com/stacksgov/sip31-interim-grants/issues/6 (Awarded)
-- https://github.com/stacksgov/sip31-interim-grants/issues/5
-- https://github.com/stacksgov/sip31-interim-grants/issues/4
-- https://github.com/stacksgov/sip31-interim-grants/issues/3
-- https://github.com/stacksgov/sip31-interim-grants/issues/2
-- https://github.com/stacksgov/sip31-interim-grants/issues/1 (Awarded)
+### Open
+- [Design Driven Development by Rocky & the Block](https://github.com/stacksgov/sip31-interim-grants/issues/34)
+- [Block9: Decentralized Document Generation](https://github.com/stacksgov/sip31-interim-grants/issues/33)
+- [BNS One: The Future of Bitcoin Identity](https://github.com/stacksgov/sip31-interim-grants/issues/31)
+- [Boom: Pay. Play. Shop. Share.](https://github.com/stacksgov/sip31-interim-grants/issues/29)
+- [PropertyX - First Real Yield RWA Protocol on Stacks](https://github.com/stacksgov/sip31-interim-grants/issues/28)
+- [Dataing Data Marketplace & DID: sBTC-denominated “Sats-for-Signals”](https://github.com/stacksgov/sip31-interim-grants/issues/27)
+- [DeOrganized Media: Stacks Coverage & Continuity](https://github.com/stacksgov/sip31-interim-grants/issues/26)
+- [BoostX: Roadmap Completion & Ecosystem Scaling](https://github.com/stacksgov/sip31-interim-grants/issues/25)
+- [Stacks AI Guild - Ignite AI Innovation, AI Content Creation, AI-empowered Developers on Stacks](https://github.com/stacksgov/sip31-interim-grants/issues/24)
+- [Stacks Mobile App: Web2 UX, Web3 Growth](https://github.com/stacksgov/sip31-interim-grants/issues/21)
+- [Skullcoin: Strike — Sustainable Combat on Stacks (Bitcoin L2)](https://github.com/stacksgov/sip31-interim-grants/issues/20)
+- [Let Africa Build - Africa's 1st Bitcoin L2 Development Hub & Incubator](https://github.com/stacksgov/sip31-interim-grants/issues/17)
+- [Way Forward On Stacks | Dexion's Grant Application](https://github.com/stacksgov/sip31-interim-grants/issues/15)
+- [Stacks-ICP Lightning Bridge](https://github.com/stacksgov/sip31-interim-grants/issues/14)
+- [Stacksinscription: smart contract version of inscription on Stacks](https://github.com/stacksgov/sip31-interim-grants/issues/10)
+- [Tenero: Real-Time Analytics & Runes for Stacks](https://github.com/stacksgov/sip31-interim-grants/issues/9)
+- [VoltFi | Stacks Grant Proposal](https://github.com/stacksgov/sip31-interim-grants/issues/8)
+- [Stacks Agent: The AI DeFi Trading Bot on Autopilot](https://github.com/stacksgov/sip31-interim-grants/issues/6) (Awarded)
+- [Liquidity for Lisa](https://github.com/stacksgov/sip31-interim-grants/issues/4)
+- [SIP-031 Interim Grants - TVL based](https://github.com/stacksgov/sip31-interim-grants/issues/1) (Awarded)
+
+### Closed
+- [Chain of Custody: On-Chain Voting for Curated Artworks](https://github.com/stacksgov/sip31-interim-grants/issues/32)
+- [VibesDAO.fun -- Vibe Coding DAO on Stacks](https://github.com/stacksgov/sip31-interim-grants/issues/30)
+- [Stacks wars](https://github.com/stacksgov/sip31-interim-grants/issues/23)
+- [StacksBuilder: Professional Developer Showcase Platform for the Stacks Ecosystem](https://github.com/stacksgov/sip31-interim-grants/issues/22)
+- [Stacks wars](https://github.com/stacksgov/sip31-interim-grants/issues/19)
+- [Zero Authority Genome – Building Blocks for Mass Adoption & Reputation of Stacks](https://github.com/stacksgov/sip31-interim-grants/issues/18)
+- [lordrozar - WIP](https://github.com/stacksgov/sip31-interim-grants/issues/16)
+- [StableWallet - The crosschain DEFI solutions](https://github.com/stacksgov/sip31-interim-grants/issues/13)
+- [DexGo](https://github.com/stacksgov/sip31-interim-grants/issues/12)
+- [MotoDEX](https://github.com/stacksgov/sip31-interim-grants/issues/11)
+- [Stacking Rewards Optimizer - Transparent On-Chain Infrastructure Eliminating Hidden Fees](https://github.com/stacksgov/sip31-interim-grants/issues/7)
+- [Jing Cash Endowment STX Provision - Zero Fee Trading for Stacking Pools](https://github.com/stacksgov/sip31-interim-grants/issues/5)
+
 
 # Open Ended Interim Grants from the Stacks Foundation
 As the push to bring SIP-031 resources to the ecosystem carries on, this grant program is intended to bridge builders to new programs exected from the new Stacks Endowment later this year. You can also browse other opportunities [covered in this post](https://stx.is/sip-31-interim-grants) and identify the program that is most applicable to your project. 
