@@ -1,9 +1,9 @@
 # ⏰ Applications are now closed. 
-Find [additional paths below](https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20state%3Aopen%20label%3AAwarded) or get in touch with us via community@stacks.org. 
+Find [additional paths below](https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20label%3A%22%F0%9F%99%8C%20Awarded%22) or get in touch with us via community@stacks.org. 
 <br>
 
 # 🙌 Awarded Grants
-Find a [list of awarded grants]([https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20state%3Aopen%20label%3AAwarded](https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20label%3A%22%F0%9F%99%8C%20Awarded%22)), on each thread grantees will post updates a minimum of every two weeks to keep the community informed on their progress.
+Find a [list of awarded grants](https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20label%3A%22%F0%9F%99%8C%20Awarded%22), on each thread grantees will post updates a minimum of every two weeks to keep the community informed on their progress.
 <br>
 <br>
 # 💡 Open Ended Interim Grants from the Stacks Foundation
