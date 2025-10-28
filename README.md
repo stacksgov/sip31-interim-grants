@@ -3,7 +3,7 @@ Find [additional paths below](https://github.com/stacksgov/sip31-interim-grants/
 <br>
 
 # 🙌 Awarded Grants
-Find a [list of awarded grants](https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20label%3A%22%F0%9F%99%8C%20Awarded%22), on each thread grantees will post updates a minimum of every two weeks to keep the community informed on their progress.
+Find a [list of awarded grants](https://github.com/stacksgov/sip31-interim-grants/issues?q=is%3Aissue%20label%3A%22%F0%9F%99%8C%20Awarded%22), on each thread grantees will post updates a minimum of every two weeks to keep the community informed on their progress. You can also find closed issues referencing pivots, grants that were redirected and awarded via DeGrants, or entries by other builders that were support through more fitting funding streams. In all, we received 30 complete applications before the deadline, [24 of which were ultimately supported](https://github.com/stacksgov/sip31-interim-grants/issues?q=label%3A%22%F0%9F%99%8C%20Awarded%22%2C%22Awarded%20a%20DeGrant%22%2C%22%F0%9F%92%B0%20Funded%22%2C%22Proceeding%20via%20Alternate%20Funding%22). For work that was funeded via alternative funding paths, we will still expect builders to report on their work on a regular basis, we will work with ZeroAuthorityDAO to put these updates in a user-friendly place on their site alongside DeGrants.
 <br>
 <br>
 # 💡 Open Ended Interim Grants from the Stacks Foundation
